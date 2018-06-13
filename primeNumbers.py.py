@@ -1,5 +1,5 @@
 #first examlpe
-def prime_number(v):
+def prime_number(n):
 	if n==2: return [2]
 	elif n<2: return []
 	s=range(3,n+1,2)
